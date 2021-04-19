@@ -28,3 +28,5 @@ Custom rxjs-operators that I commonly used
       }
     }
     ```
+* onChange [Demo link](https://stackblitz.com/edit/4xuw5f?file=index.ts)
+ * Usecase: When we want to be notified if the current value is different from the last emitted value
